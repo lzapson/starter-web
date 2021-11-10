@@ -16,6 +16,8 @@ This is a simple web project, deployment
 
 ## How to Contribute
 
+Please fork this repository and them issue Pull request
+
 ### Copyright
 
 2014 Git Training
